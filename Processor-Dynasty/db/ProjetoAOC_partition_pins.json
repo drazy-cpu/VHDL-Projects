@@ -1,0 +1,317 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "PC_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[8]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[9]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[10]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[11]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[12]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[13]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[14]",
+					"strict" : false
+				},
+				{
+					"name" : "PC_OUT[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ROM_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ROM_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ROM_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ROM_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ROM_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ROM_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RT_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RT_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RT_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ADDRESS_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ADDRESS_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ADDRESS_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[8]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[9]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[10]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[11]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[12]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[13]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[14]",
+					"strict" : false
+				},
+				{
+					"name" : "R_A_OUT[15]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[8]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[9]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[10]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[11]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[12]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[13]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[14]",
+					"strict" : false
+				},
+				{
+					"name" : "ALU_RESULT_OUT[15]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[8]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[9]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[10]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[11]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[12]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[13]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[14]",
+					"strict" : false
+				},
+				{
+					"name" : "MUX_2_OUT[15]",
+					"strict" : false
+				},
+				{
+					"name" : "CLOCK",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
